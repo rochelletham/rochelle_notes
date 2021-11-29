@@ -3,11 +3,12 @@ type: note
 keywords: electroacoustic, history
 ---
 ##### Some context:  
-Mechanical: like record player 1977-1925  
-Electro-mechanical: 1925-1945  
-Magnetic: 1945-1975  
-Digital: computers! 1975-current  
-Mechanical Recording  
+1. Mechanical: like record player 1977-1925  
+2. Electro-mechanical: 1925-1945  
+3. Magnetic: 1945-1975  
+4. Digital: computers! 1975-current  
+<br />
+Mechanical Recording:   
 -strictly physical/mechanical process  
 -no microphones, no means of electrical amplification  
      -sound wave vibrations transfer directly to stylus/lathe  
@@ -39,6 +40,7 @@ Thomas Edison
 
 
 ##### Date: September 14, 2020 Monday
+---
 ### Gramophone  
 Different mechanism to avoid patent infringement  
 Lateral-cut wax disc  
@@ -123,25 +125,30 @@ Aided by improved use interfaces, transistors replacing vacuum tubes
 
 
 ### Technics RS-1500 reel-to-reel tape recorder (ca 1976-1985)  
-  
+<img style="float: right;" src="../../attachments/TechnicsRS-1500_reel-to-reel-tape.png" alt="TechnicsRS-1500-tape-recorder" width="200"/>
 Compact Cassette Tape  
 Sony/Phillips  
 -culmination of consumer-level magnetic recording  
 -tape encased in hard plastic instead of open reels  
 -ease of recording  
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
 
 
-
-
-#### Date: September 16, 2020 Wednesday  
-  
+### Date: September 16, 2020 Wednesday  
+---  
 ### Multi-Track Magnetic Recording  
 Magnetic tape developed to accommodate for multiple simultaneous audio signals  
 -physical tape width split into recordable divisions  
 → increased engineering possibilities: record 4 tracks at the same time, sum monophonic tracks through   mixer and record to single track on second tape deck  
 -->record 4 different tones, route the outputs to 1 track using mixer    
   
-### Digital Recording
+## Digital Recording
 **Operating principle:**  
 Sound captured via rapid, periodic series of discrete measurements of an electrical signal level, called samples (analog to digital conversion)  
 Samples stored as binary data, usually on computer  
@@ -159,6 +166,8 @@ Physical media largely eclipsed by digital audio file formats and internet-based
 Developed by Motion Picture Experts Group, AIFF, WAV, AAC don’t reduce/compress the data  
 Best sound factors:  
 -hardware using, where you are listening to the audio  
+
+## Conclusion:
 Recording Technology continually influenced by:  
 1. expansion of internet-based tools  
 2. proliferation/standardization of personal computers  
@@ -173,51 +182,51 @@ Recording Technology continually influenced by:
 
 
 Quiz
-Match the following inventions with the inventor and year
-Telegraphone -Scott, 1857
-Compact Cassette Tape -Sony, 1987
-Phonoautograph -Edison, 1877
-Gramophone
-Magnetophon
-Phonograph-Sony/Phillips, 1962
-DAT 
-F E
-C Scott
-E AEG
-aPolsen
-gSony
-B sony phillips
-D berliner
+---
+1. Match the following inventions with the inventor and year  
+Telegraphone -Scott, 1857  
+Compact Cassette Tape -Sony, 1987  
+Phonoautograph -Edison, 1877  
+Gramophone  
+Magnetophon  
+Phonograph-Sony/Phillips, 1962  
+DAT   
+F E  
+C Scott  
+E AEG  
+aPolsen  
+gSony  
+B sony phillips  
+D berliner  
+  
+2. Identify the items associated with magnetic recording tech:  
+Telegraphone -Scott, 1857  
+Magnetophon  
+Compact cassette tape   
+DAT  
 
-Identify the items associated with magnetic recording tech:
-Telegraphone -Scott, 1857
-Magnetophon
-Compact cassette tape 
-DAT
+3. Items associated with physical/mechanical recording era  
+Phonoautograph  
+Phonograph  
+Gramophone  
+Telegraphone  
+Items associated with digital recording technology  
+DAT  
 
-Items associated with physical/mechanical recording era
-Phonoautograph
-Phonograph
-Gramophone
-Telegraphone
-Items associated with digital recording technology
-DAT
+4. Describe the process by which it is possible to simultaneously record multiple audio signals onto a single reel of magnetic tape  
+Route the tracks to another track via mixer  
+Electromagnetism for recording playback partition the tape into thinner subsections  
+5. Why did the gramophone outperform the phonograph on the consumer/commercial market  
+More accessible  
+More convenient storage, used pepperoni slices  
 
-Describe the process by which it is possible to simultaneously record multiple audio signals onto a single reel of magnetic tape
-Route the tracks to another track via mixer
-Electromagnetism for recording playback partition the tape into thinner subsections
-Why did the gramophone outperform the phonograph on the consumer/commercial market
-More accessible
-More convenient storage, used pepperoni slices
-
-
-Better dynamic range
-cheaper/easier to manufacture
-Longer lifespan, 
-What significant contributions did the western electric company make to the history of recording technology?
-What was the first physical format for digital audio that achieved commercial viability and success, and what year was it produced?
-Asdf
-First device capable of recording and playing back audio?
+  
+Better dynamic range  
+cheaper/easier to manufacture    
+Longer lifespan,   
+6. What significant contributions did the western electric company make to the history of recording technology?
+7. What was the first physical format for digital audio that achieved commercial viability and success, and what year was it produced?
+8. First device capable of recording and playing back audio?
 Phonograph - by Edison
-Magnetic recording technology emerged in the mid 1930s, but did not see widespread development and distribution until late 1940s. Why?
+9. Magnetic recording technology emerged in the mid 1930s, but did not see widespread development and distribution until late 1940s. Why?
 WWII, largely used for sending encoded wartime communications 
