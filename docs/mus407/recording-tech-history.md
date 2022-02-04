@@ -125,7 +125,6 @@ Aided by improved use interfaces, transistors replacing vacuum tubes
 
 
 ### Technics RS-1500 reel-to-reel tape recorder (ca 1976-1985)  
-<img style="float: right;" src="../../attachments/TechnicsRS-1500_reel-to-reel-tape.png" alt="TechnicsRS-1500-tape-recorder" width="200"/>
 Compact Cassette Tape  
 Sony/Phillips  
 -culmination of consumer-level magnetic recording  
